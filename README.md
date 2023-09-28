@@ -3,6 +3,7 @@
 I'm a passionate Java Spigot Developer based in Austria. Welcome to my GitHub profile!
 
 🌱 I'm currently building my portfolio with new stuff!
+
 🚀 I'm passionate about learning all sorts of new stuff and trying things out :-).
 
 ## 🔧 Technologies & Tools
