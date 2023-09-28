@@ -2,7 +2,9 @@
 
 I'm a passionate Java Spigot Developer based in Austria. Welcome to my GitHub profile!
 
-🌱 I'm currently building my portfolio with new stuff!
+Currently Linux System Administrator/Developer at DDG (DusDavidGames) (Volunteer)
+
+🌱 I'm currently building my portfolio with new stuff, see some of my recent repos!
 
 🚀 I'm passionate about learning all sorts of new stuff and trying things out :-).
 
