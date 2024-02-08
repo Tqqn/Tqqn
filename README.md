@@ -16,7 +16,7 @@ Here are some of the technologies and tools I'm familiar with:
 - 🧰 Frameworks & Libraries: Spigot, Bukkit, Velocity API
 
 ## Portfolio
-- https://devtqqn.com/
+- https://tqqn.dev/
 
 ## 📈 GitHub Stats
 
