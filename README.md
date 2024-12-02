@@ -4,7 +4,8 @@ I'm a passionate Java Spigot Developer based in Austria. Welcome to my GitHub pr
 
 Currently doing:
 Java Minigame Developer at GommeHD (voluntary)
-Linux System Administrator/Developer at DDG (DusDavidGames) (Freelancer)
+
+Sr. Developer at DDG (DusDavidGames) (Freelancer)
 
 🌱 I'm currently building my portfolio with new stuff, see some of my recent repos!
 
@@ -15,7 +16,7 @@ Linux System Administrator/Developer at DDG (DusDavidGames) (Freelancer)
 Here are some of the technologies and tools I'm familiar with:
 
 - 💻 Programming Languages: Java, Python, C++
-- 🧰 Frameworks & Libraries: Spigot, Bukkit, Velocity API
+- 🧰 Frameworks & Libraries: Spigot, Bukkit, Velocity API, Kubernetes
 
 ## Portfolio
 - https://tqqn.dev/
